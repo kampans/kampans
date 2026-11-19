@@ -22,7 +22,7 @@ I'm always up for hackathons, game jams and side projects, especially anything i
 
 - **Sun Shade** - [hackslop-lunar.vercel.app](https://hackslop-lunar.vercel.app) | [Repo](https://github.com/jackzyx/hackslop-lunar)
 - **pyCTF** - [kampans.github.io/pyCTF](https://kampans.github.io/pyCTF/) | [Repo](https://github.com/kampans/pyCTF)
-- **pyctf-rust** - [pyctf-rust.nikolas-kampans.workers.dev](https://pyctf-rust.nikolas-kampans.workers.dev) | [Repo (private)](https://github.com/kampans/pyctf-rust)
+- **pyctf-rust** - [pyctf-rust.nikolas-kampans.workers.dev](https://pyctf-rust.nikolas-kampans.workers.dev) | [Repo](https://github.com/kampans/pyctf-rust)
 
 ---
 
