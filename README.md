@@ -1,5 +1,14 @@
 # Hey, I'm Nicolas 👋
 
+```text
+       |\                         /|
+       | \___   CAPTURE THE   ___/ |
+       |_/       FLAG           \_|
+       |                           |
+  _____|_____                 _____|_____
+   BLUE BASE                   RED BASE
+```
+
 First-year Computer Science student at **TU Dublin** (TU856). I like building things that actually run: games, web apps and Arduino gadgets. Long term, I'm aiming for a master's in **quantum computing**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-campan-766263433)
@@ -7,13 +16,29 @@ First-year Computer Science student at **TU Dublin** (TU856). I like building th
 
 ---
 
-## 🤝 Open to hackathons & collaborations
+## 🚩 Capture the flag
+
+Bring the red flag back to blue base. Choose a route to take your first turn.
+
+[Cross the bridge](game/bridge.md) · [Follow the river](game/river.md) · [Play the live Rust game](https://pyctf-rust.nikolas-kampans.workers.dev)
+
+## 🏆 Scoreboard
+
+[![Profile views](https://komarev.com/ghpvc/?username=kampans&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
+
+[![All-time public commits](https://github-readme-stats.vercel.app/api?username=kampans&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=All-time%20public%20commits&theme=github_dark)](https://github.com/kampans)
+
+*The profile counter tracks badge requests through GitHub’s image proxy.*
+
+---
+
+## 🤝 Co-op | Hackathons & collaborations
 
 I'm always up for hackathons, game jams and side projects, especially anything involving games, hardware or space tech. If you've got a team that needs another builder, or an idea you want to bounce around, message me on LinkedIn or drop me an email.
 
 ---
 
-## 🚀 Projects
+## 🚀 Campaign | Projects
 
 ### 🚩 pyCTF: capture the flag in Python
 A two-player Pygame capture-the-flag game I built in 2024 for CTYI / DCU (with Matthew Duff). It now runs in the browser and has an online multiplayer lobby: one player creates a lobby, shares a code, and a friend joins from anywhere.
@@ -35,7 +60,7 @@ Built with my team at HackAthlone (NASA Space Apps Challenge, TUS Athlone, Nov 2
 
 ---
 
-## 🔌 Arduino & electronics
+## 🔌 Workshop | Arduino & electronics
 
 I love hands-on hardware, and I enjoy the debugging as much as the building. Most of my projects run on an Arduino Nano, where RAM is tight.
 
@@ -44,7 +69,7 @@ I love hands-on hardware, and I enjoy the debugging as much as the building. Mos
 
 ---
 
-## 🛠️ Tech I use
+## 🛠️ Loadout | Tech I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
