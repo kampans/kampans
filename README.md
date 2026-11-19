@@ -15,14 +15,6 @@ First-year Computer Science student at **TU Dublin** (TU856). I like building th
 
 ---
 
-## 🚩 Capture the flag
-
-Bring the red flag back to blue base. Choose a route to take your first turn.
-
-[Cross the bridge](game/bridge.md) · [Follow the river](game/river.md) · [Play the live Rust game](https://pyctf-rust.nikolas-kampans.workers.dev)
-
-## 🏆 Scoreboard
-
 [![Profile views](https://komarev.com/ghpvc/?username=kampans&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 
 *The profile counter tracks badge requests through GitHub’s image proxy.*
