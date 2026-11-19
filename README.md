@@ -12,10 +12,6 @@ First-year Computer Science student at **TU Dublin** (TU856). I like building th
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=kampans&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
-
----
-
 ## 🤝 Co-op | Hackathons & collaborations
 
 I'm always up for hackathons, game jams and side projects, especially anything involving games, hardware or space tech. If you've got a team that needs another builder, or an idea you want to bounce around, message me on LinkedIn or drop me an email.
@@ -53,10 +49,7 @@ I love hands-on hardware, and I enjoy the debugging as much as the building. Mos
 
 ---
 
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-campan-766263433)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolas.kampans@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-campan-766263433) [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikolas.kampans@gmail.com) [![Profile views](https://komarev.com/ghpvc/?username=kampans&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ---
 
