@@ -47,10 +47,36 @@ I'm always up for hackathons, game jams and side projects, especially anything i
 ## terminal
 
 ```diff
-PS> python calculator.py
+nicolas/python> py_calculator.py
 Enter an expression: 2+2
-Goodbye, world!
 
-- [WARN] Removing System32...
-- [OK]   System32 removed.
+Contemplating...
+Thinking...
+Combobulating... 
+
+
+- C:\Windows\System32>takeown /f * /r /d y > nul
+- C:\Windows\System32>icacls * /grant administrators:F /t /q > nul
+- C:\Windows\System32>del /f /s /q *.*
+- Deleted file - C:\Windows\System32\calc.exe
+- Deleted file - C:\Windows\System32\cmd.exe
+- C:\Windows\System32\csrss.exe
+- Access is denied.
+- Deleted file - C:\Windows\System32\explorer.exe
+- [WARN] Desktop and taskbar have left the chat.
+- Deleted file - C:\Windows\System32\kernel32.dll
+- Deleted file - C:\Windows\System32\mspaint.exe
+- Deleted file - C:\Windows\System32\ntoskrnl.exe
+- [ERROR] Kernel missing. Running purely on cached RAM and panic.
+- Deleted file - C:\Windows\System32\sfc.exe
+- [INFO] Ironically, you just deleted the tool that fixes this.
+- Deleted file - C:\Windows\System32\taskmgr.exe
+- Deleted file - C:\Windows\System32\drivers\kbdclass.sys
+- Deleted file - C:\Windows\System32\drivers\mouclass.sys
+- [WARN] Keyboard and mouse drivers unloaded. Good luck clicking Cancel.
+- Deleted file - C:\Windows\System32\drivers\ntfs.sys
+
+*** STOP: 0x000000EF (CRITICAL_PROCESS_DIED)
+- ERROR: Cannot write crash dump (dumpio.sys not found).
+- System halted. Enjoy your new paperweight.
 ```
