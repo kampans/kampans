@@ -25,25 +25,9 @@ I'm always up for hackathons, game jams and side projects, especially anything i
 
 ---
 
-## 🚀 Campaign | Projects
+## Projects
 
-### 🚩 pyCTF: capture the flag in Python
-A two-player Pygame capture-the-flag game I built in 2024 for CTYI / DCU (with Matthew Duff). It now runs in the browser and has an online multiplayer lobby: one player creates a lobby, shares a code, and a friend joins from anywhere.
-
-- Python, Pygame, PeerJS for the lobby networking
-- Code: [kampans/pyCTF](https://github.com/kampans/pyCTF)
-
-### 🦀 pyctf-rust: the polished Rust port
-A more polished rewrite of pyCTF in Rust (Macroquad), compiled for the web, with a game timer, win conditions and team swapping.
-
-- ▶️ **Play it live:** [pyctf-rust.nikolas-kampans.workers.dev](https://pyctf-rust.nikolas-kampans.workers.dev)
-- Hosted on Cloudflare Workers
-
-### ☀️ Sun Shade: HackAthlone 2026 (NASA Space Apps)
-Built with my team at HackAthlone (NASA Space Apps Challenge, TUS Athlone, Nov 2026) for the **Lunar Landing Site Navigator** challenge.
-
-- ▶️ **Try it live:** [hackslop-lunar.vercel.app](https://hackslop-lunar.vercel.app)
-- Code: [jackzyx/hackslop-lunar](https://github.com/jackzyx/hackslop-lunar)
+[pyCTF](https://github.com/kampans/pyCTF) | [pyctf-rust](https://pyctf-rust.nikolas-kampans.workers.dev) | [Sun Shade](https://hackslop-lunar.vercel.app)
 
 ---
 
