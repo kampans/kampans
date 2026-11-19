@@ -1,11 +1,13 @@
 # Hey, I'm Nicolas 👋
 
 ```text
-  N   N  III   CCC   OOO  L       A    SSS
-  NN  N   I   C     O   O L      A A  S
-  N N N   I   C     O   O L     AAAAA  SSS
-  N  NN   I   C     O   O L     A   A     S
-  N   N  III   CCC   OOO  LLLLL A   A SSSS
+█   █ ███  ███   ███  █      ███   ████
+██  █░ █░░█ ░░░ █ ░░█ █░    █ ░░█ █ ░░░░
+█░█ █░░█░░█░ ░░░█░ ░█░█░░   █████░ ███░░░
+█░░██░░█░░█░░   █░░ █░█░░   █░░░█░░ ░░█
+█░░ █░███░ ███   ███ ░█████ █░░░█░████░░
+ ░░  ░░░░░  ░░░   ░░░ ░░░░░░ ░░  ░░░░░░ ░
+  ░   ░ ░░░  ░░░   ░░░  ░░░░░ ░   ░ ░░░░
 ```
 
 First-year Computer Science student at **TU Dublin** (TU856). I like building things that actually run: games, web apps and Arduino gadgets. Long term, I'm aiming for a master's in **quantum computing**.
