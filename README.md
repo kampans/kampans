@@ -12,13 +12,13 @@ First-year Computer Science student at **TU Dublin** (TU856). I like building th
 
 ---
 
-## 🤝 Co-op | Hackathons & collaborations
+## co-op mode
 
 I'm always up for hackathons, game jams and side projects, especially anything involving games, hardware or space tech. If you've got a team that needs another builder, or an idea you want to bounce around, message me on LinkedIn or drop me an email.
 
 ---
 
-## Projects
+## projects
 
 - **Sun Shade** - [hackslop-lunar.vercel.app](https://hackslop-lunar.vercel.app) | [Repo](https://github.com/jackzyx/hackslop-lunar)
 - **pyCTF** - [kampans.github.io/pyCTF](https://kampans.github.io/pyCTF/) | [Repo](https://github.com/kampans/pyCTF)
@@ -26,16 +26,7 @@ I'm always up for hackathons, game jams and side projects, especially anything i
 
 ---
 
-## 🔌 Workshop | Arduino & electronics
-
-I love hands-on hardware, and I enjoy the debugging as much as the building. Most of my projects run on an Arduino Nano, where RAM is tight.
-
-- 🎮 **Simon Says game:** runs on a 1602 LCD with a 5-way key module for input and a buzzer for sound effects. Battery-powered setup in progress.
-- 💳 **NFC reader:** PN532 module over I2C that reads card UIDs and types and shows them on an OLED.
-
----
-
-## 🛠️ Loadout | Tech I use
+## inventory hotbar
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -53,7 +44,7 @@ I love hands-on hardware, and I enjoy the debugging as much as the building. Mos
 
 ---
 
-## Console
+## terminal
 
 ```diff
 PS> python calculator.py
