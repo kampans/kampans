@@ -73,3 +73,16 @@ I love hands-on hardware, and I enjoy the debugging as much as the building. Mos
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Campan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-campan-766263433)
+
+---
+
+## Console
+
+```diff
+PS> python calculator.py
+Enter an expression: 2+2
+Goodbye, world!
+
+- [WARN] Removing System32...
+- [OK]   System32 removed.
+```
