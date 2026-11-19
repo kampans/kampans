@@ -1,12 +1,11 @@
 # Hey, I'm Nicolas 👋
 
 ```text
-       |\                         /|
-       | \___   CAPTURE THE   ___/ |
-       |_/       FLAG           \_|
-       |                           |
-  _____|_____                 _____|_____
-   BLUE BASE                   RED BASE
+  N   N  III   CCC   OOO  L       A    SSS
+  NN  N   I   C     O   O L      A A  S
+  N N N   I   C     O   O L     AAAAA  SSS
+  N  NN   I   C     O   O L     A   A     S
+  N   N  III   CCC   OOO  LLLLL A   A SSSS
 ```
 
 First-year Computer Science student at **TU Dublin** (TU856). I like building things that actually run: games, web apps and Arduino gadgets. Long term, I'm aiming for a master's in **quantum computing**.
@@ -25,8 +24,6 @@ Bring the red flag back to blue base. Choose a route to take your first turn.
 ## 🏆 Scoreboard
 
 [![Profile views](https://komarev.com/ghpvc/?username=kampans&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
-
-[![All-time public commits](https://github-readme-stats.vercel.app/api?username=kampans&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=All-time%20public%20commits&theme=github_dark)](https://github.com/kampans)
 
 *The profile counter tracks badge requests through GitHub’s image proxy.*
 
